@@ -5,7 +5,6 @@
 </p>
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Justin&reversal=false&textBg=false&animation=fadeIn&theme=tokyonight)
-<h1 align="center">Hi there, I'm Justin 👋</h1>
 
 <p align="center">
   <a href="https://github.com/jaylann">
@@ -17,18 +16,21 @@
   <a href="https://ko-fi.com/justiiiin">
     <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=kofi" alt="Ko-Fi" />
   </a>
+  <a href="https://lanfermann.dev">
+    <img src="https://img.shields.io/badge/-Lanfermann.DEV-0A0A0A?style=flat&logo=Firefox&logoColor=white" alt="Website" />
+  </a>
 </p>
+
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-I'm **Justin**, a 19-year-old Computer Science student at the [Technical University of Munich (TUM)](https://www.tum.de). My journey with computers began early, from tinkering with Minecraft mods to hosting servers. I'm passionate about software engineering, from front-end to back-end, including cloud architecture, pentesting, and cybersecurity.
+I'm **Justin**, a 19-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). My journey with computers began early, from tinkering with Minecraft mods to hosting servers. I'm passionate about software engineering, from front-end to back-end, including cloud architecture, machine learning, and cybersecurity.
 
-- 🔭 **Currently working on:** Expanding my blog and projects.
-- 🌱 **Currently learning:** Advanced Machine Learning and Cloud Computing.
+- 🔭 **Currently working on:** My Personal Portfolio, my own course.
+- 🌱 **Currently learning:** Web Development, Software Architecture, Cybersecurity
 - 👯 **Looking to collaborate on:** Interesting and unconventional projects.
-- 💬 **Ask me about:** Python, Java, Machine Learning, or anything tech-related!
+- 💬 **Ask me about:** Python, Java, Machine Learning, or anything tech and science-related!
 - 📫 **How to reach me:** [Email Me](mailto:justin@lanfermann.dev)
-- ⚡ **Fun fact:** There are easter eggs hidden throughout my site. Can you find them all?
 
 <!-- Tech Skills -->
 ## 🛠️ Tech Skills
@@ -62,27 +64,6 @@ I'm **Justin**, a 19-year-old Computer Science student at the [Technical Univers
 
 *📖 [Read more on my blog](https://lanfermann.dev/blog)*
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/jaylann/WAC2J">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=WAC2J&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/jaylann/StudySetCreator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=StudySetCreator&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jaylann/HelperCollection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=HelperCollection&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/jaylann/NexusAutoDL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=NexusAutoDL&theme=tokyonight" />
-  </a>
-</p>
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -105,8 +86,8 @@ I'm **Justin**, a 19-year-old Computer Science student at the [Technical Univers
 <!-- Contact Me -->
 ## 📫 Contact Me
 
-- **Website:** [lanfermann.dev](https://lanfermann.dev)
-- **Email:** [justin@lanfermann.dev](mailto:justin@lanfermann.dev)
+- **Website:** [Lanfermann.DEV](https://lanfermann.dev)
+- **Email:** [Justin@Lanfermann.DEV](mailto:justin@lanfermann.dev)
 - **LinkedIn:** [Justin Lanfermann](https://www.linkedin.com/in/justin-lanfermann-07352124b)
 - **Ko-Fi:** [Buy me a coffee](https://ko-fi.com/justiiiin)
 
@@ -116,6 +97,5 @@ I'm **Justin**, a 19-year-old Computer Science student at the [Technical Univers
 
 <!-- Footer Links -->
 <p align="center">
-  <a href="https://lanfermann.dev/imprint">Imprint</a> •
-  <a href="https://lanfermann.dev/privacy">Privacy Policy</a>
+  <a href="https://lanfermann.dev/imprint">Imprint</a>
 </p>
