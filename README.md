@@ -67,13 +67,14 @@ I'm **Justin**, a 19-year-old Computer Science student and Tutor at the [Technic
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<!-- Arrange stats in a grid -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaylann&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
