@@ -1,8 +1,10 @@
+<!-- Header -->
 <!--
 <p align="center">
   <img src="https://cdn.lanfermann.dev/projects/thumbnails/this-page-project-thumbnail.jpeg" alt="Banner" />
-</p> Header -->
-
+</p>
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi,%20I'm%20Justin&reversal=false&textBg=false&animation=fadeIn)
 <h1 align="center">Hi there, I'm Justin 👋</h1>
 
 <p align="center">
@@ -16,7 +18,6 @@
     <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=kofi" alt="Ko-Fi" />
   </a>
 </p>
-
 <!-- About Me -->
 ## 👨‍💻 About Me
 
@@ -35,9 +36,9 @@ I'm **Justin**, a 19-year-old Computer Science student at the [Technical Univers
 ![Python](https://img.shields.io/badge/Python-6%20years-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3%20years-007396?logo=java&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-1%20year-4298B8?logo=apache-groovy&logoColor=white)
-![Language Models](https://img.shields.io/badge/Language%20Models-3%20years-652C90?logo=ai)
+![Language Models](https://img.shields.io/badge/Language%20Models-3%20years-652C90?logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2%20years-2496ED?logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-3%20years-0069D9?logo=network&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-3%20years-0069D9?logo=cisco&logoColor=white)
 ![C](https://img.shields.io/badge/C-2%20years-A8B9CC?logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-1%20year-61DAFB?logo=react&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2%20years-F7931E?logo=tensorflow&logoColor=white)
@@ -61,32 +62,56 @@ I'm **Justin**, a 19-year-old Computer Science student at the [Technical Univers
 
 *📖 [Read more on my blog](https://lanfermann.dev/blog)*
 
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/jaylann/WAC2J">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=WAC2J&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/jaylann/StudySetCreator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=StudySetCreator&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jaylann/HelperCollection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=HelperCollection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/jaylann/NexusAutoDL">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaylann&repo=NexusAutoDL&theme=tokyonight" />
+  </a>
+</p>
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
+<!-- Arrange stats in a grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaylann&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaylann&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<!-- Contribution Graph -->
+## 📈 Contribution Graph
+
+[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaylann&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=58a6ff&point=444c56&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Contact Me -->
 ## 📫 Contact Me
 
-- **Website:** [Lanfermann.dev](https://Lanfermann.dev)
+- **Website:** [lanfermann.dev](https://lanfermann.dev)
 - **Email:** [justin@lanfermann.dev](mailto:justin@lanfermann.dev)
-- **LinkedIn:** [Justin Lanfermann](www.linkedin.com/in/justin-lanfermann-07352124b)
+- **LinkedIn:** [Justin Lanfermann](https://www.linkedin.com/in/justin-lanfermann-07352124b)
 - **Ko-Fi:** [Buy me a coffee](https://ko-fi.com/justiiiin)
 
 ---
+
 *Made with ❤️ by Justin Lanfermann*
 
 <!-- Footer Links -->
