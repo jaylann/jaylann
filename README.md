@@ -4,7 +4,7 @@
   <img src="https://cdn.lanfermann.dev/projects/thumbnails/this-page-project-thumbnail.jpeg" alt="Banner" />
 </p>
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi,%20I'm%20Justin&reversal=false&textBg=false&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Justin&reversal=false&textBg=false&animation=fadeIn&theme=tokyonight)
 <h1 align="center">Hi there, I'm Justin 👋</h1>
 
 <p align="center">
