@@ -1,5 +1,9 @@
 name: Update Blog Posts
 
+# Set permissions at the workflow level
+permissions:
+  contents: write  # Allows read and write access to the repository contents
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight UTC
