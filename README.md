@@ -59,8 +59,10 @@ I'm **Justin**, a 19-year-old Computer Science student and Tutor at the [Technic
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Training a Digital Twin of Myself](https://www.lanfermann.dev/blogs/digital-twin)
-<!-- BLOG-POST-LIST:END -->
+- [The Perfect LinkedIn Influencer](https://lanfermann.dev/blogs/the-perfect-linkedin-influencer)
+- [Calculating the Billionth Fibonacci Number](https://lanfermann.dev/blogs/the-billionth-fibonacci-number)
+- [Training a Digital Twin of Myself](https://lanfermann.dev/blogs/digital-twin)
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:END -->
 
 *📖 [Read more on my blog](https://lanfermann.dev/blog)*
 
