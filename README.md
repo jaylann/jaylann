@@ -24,7 +24,7 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-I'm **Justin**, a 19-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). My journey with computers began early, from tinkering with Minecraft mods to hosting servers. I'm passionate about software engineering, from front-end to back-end, including cloud architecture, machine learning, and cybersecurity.
+I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). My journey with computers began early, from tinkering with Minecraft mods to hosting servers. I'm passionate about software engineering, from front-end to back-end, including cloud architecture, machine learning, and cybersecurity.
 
 - 🔭 **Currently working on:** My Personal Portfolio, my own course.
 - 🌱 **Currently learning:** Web Development, Software Architecture, Cybersecurity
