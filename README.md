@@ -30,7 +30,7 @@ I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technic
 - 🌱 **Currently learning:** iOS 26 / SwiftUI, distributed systems & OS internals, AWS serverless and Machine Learning.
 - 👯 **Looking to collaborate on:** LLM-powered apps, SwiftUI Apps, Next.js + edge/serverless projects.
 - 💬 **Ask me about:** Python/FastAPI, Next.js/TypeScript, Docker & networking, prompting/LLM stacks.
-- 🎓 **Teaching:** Tutor for **Operating Systems & System Software** (Oct 2025 – Mar 2026). Previously **Fundamentals of Programming** (Oct 2023 – Mar 2024).
+- 🎓 **Teaching:** Tutor for **Operating Systems & System Software** (Oct 2025 – Mar 2026). Previously **Fundamentals of Programming** (Oct 2024 – Mar 2025).
 - 🏅 **Highlights:** CHECK24 **GenDev** stipend • Top **8%** at TUM • **2nd place** — TUM.ai × Public Makers Hackathon.
 - 📫 **How to reach me:** [Email Me](mailto:justin@lanfermann.dev)
 
