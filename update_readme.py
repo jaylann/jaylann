@@ -27,7 +27,8 @@ def update_readme(readme_path, new_content):
         raise Exception("Start or end marker not found in README.md")
 
     new_section = f"{START_MARKER}\n{new_content}\n{END_MARKER}"
-    updated_content = content[:start_index] + new_section + content[end_index:]
+    # Skip past the END_MARKER to avoid duplication
+    updated_content = content[:start_index] + new_section + content[end_index + len(END_MARKER):]
 
     with open(readme_path, 'w', encoding='utf-8') as file:
         file.write(updated_content)
