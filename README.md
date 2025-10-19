@@ -24,36 +24,38 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). My journey with computers began early, from tinkering with Minecraft mods to hosting servers. I'm passionate about software engineering, from front-end to back-end, including cloud architecture, machine learning, and cybersecurity.
+I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). I love building dependable systems end-to-end, from SwiftUI frontends and TypeScript dashboards to Python/FastAPI services, Dockerized backends, and AWS serverless pipelines. I also care a lot about **operating systems**, **networks**, **LLMs**, and clean, accessible UI.
 
-- 🔭 **Currently working on:** My Personal Portfolio, my own course.
-- 🌱 **Currently learning:** Web Development, Software Architecture, Cybersecurity
-- 👯 **Looking to collaborate on:** Interesting and unconventional projects.
-- 💬 **Ask me about:** Python, Java, Machine Learning, or anything tech and science-related!
+- 🔭 **Currently working on:** RadioAtlas (iOS), automation & internal tools as a Working Student at **Westend61** (SysAdmin + Software Dev), a stealth startup, and my portfolio.
+- 🌱 **Currently learning:** iOS 26 / SwiftUI, distributed systems & OS internals, AWS serverless and Machine Learning.
+- 👯 **Looking to collaborate on:** LLM-powered apps, SwiftUI Apps, Next.js + edge/serverless projects.
+- 💬 **Ask me about:** Python/FastAPI, Next.js/TypeScript, Docker & networking, prompting/LLM stacks.
+- 🎓 **Teaching:** Tutor for **Operating Systems & System Software** (Oct 2025 – Mar 2026). Previously **Fundamentals of Programming** (Oct 2023 – Mar 2024).
+- 🏅 **Highlights:** CHECK24 **GenDev** stipend • Top **8%** at TUM • **2nd place** — TUM.ai × Public Makers Hackathon.
 - 📫 **How to reach me:** [Email Me](mailto:justin@lanfermann.dev)
 
 <!-- Tech Skills -->
 ## 🛠️ Tech Skills
 
-![Python](https://img.shields.io/badge/Python-6%20years-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3%20years-007396?logo=java&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-1%20year-4298B8?logo=apache-groovy&logoColor=white)
-![Language Models](https://img.shields.io/badge/Language%20Models-3%20years-652C90?logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2%20years-2496ED?logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-3%20years-0069D9?logo=cisco&logoColor=white)
-![C](https://img.shields.io/badge/C-2%20years-A8B9CC?logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-1%20year-61DAFB?logo=react&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2%20years-F7931E?logo=tensorflow&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-1%20year-FF9900?logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7%20years-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4%20years-007396?logo=java&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-2%20years-4298B8?logo=apache-groovy&logoColor=white)
+![Language Models](https://img.shields.io/badge/Language%20Models-4%20years-652C90?logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3%20years-2496ED?logo=docker&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4%20years-0069D9?logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/C-3%20years-A8B9CC?logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-2%20years-61DAFB?logo=react&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3%20years-F7931E?logo=tensorflow&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-2%20years-FF9900?logo=amazon-aws&logoColor=white)
 
 <!-- Other Skills -->
 ## 💼 Other Skills
 
-- **Presentation:** Engaging and informative public speaking.
-- **Communication:** Explaining complex technical topics to non-technical audiences.
-- **Time Management:** Efficiently balancing projects, work, and studies.
-- **Entrepreneurship:** Founded my first business at 18.
-- **Management:** Leading and managing team projects.
+- **Teaching & Mentoring:** Weekly tutorials, exam prep, and a 100+ member peer study community at TUM.
+- **Presentation:** Story-driven talks and demos; comfort speaking to groups of 30+.
+- **Communication:** Explain complex tech to mixed audiences with clarity and empathy.
+- **Entrepreneurship:** Launched my first business at 18; rapid prototyping & user-feedback mindset.
+- **Systems Thinking:** From OS/networking to APIs and UIs, design for coherence and reliability.
 
 <!-- Latest Blog Posts -->
 ## 📝 Latest Blog Posts
@@ -98,7 +100,7 @@ I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technic
 
 ---
 
-*Made with ❤️ by Justin Lanfermann*
+*Made with ❤️ by [Justin Lanfermann](https://lanfermann.dev)*
 
 <!-- Footer Links -->
 <p align="center">
