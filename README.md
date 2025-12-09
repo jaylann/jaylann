@@ -61,11 +61,11 @@ I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technic
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RadioAtlas – Discovering the World One Station at a Time](https://lanfermann.dev/blogs/radioatlas)
 - [Google's TPU Journey: How Custom Silicon Revolutionized AI Computing](https://lanfermann.dev/blogs/google-tpu-architectural-journey)
 - [PartyMap: Mapping the Nightlife Landscape with AI](https://lanfermann.dev/blogs/party-map)
 - [CVolve: The AI-Powered Résumé Builder](https://lanfermann.dev/blogs/cvolve-ai-resume-builder)
 - [EuroMesh: Crisis Communication at TUM.ai Hackathon](https://lanfermann.dev/blogs/tum-ai-hackathon-experience)
-- [Building BetterSurf under the GenDev Stipend](https://lanfermann.dev/blogs/gendev-scholarship)
 <!-- BLOG-POST-LIST:END -->
 
 *📖 [Read more on my blog](https://lanfermann.dev/blog)*
