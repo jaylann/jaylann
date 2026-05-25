@@ -24,7 +24,7 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-I'm **Justin**, a 20-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). I love building dependable systems end-to-end, from SwiftUI frontends and TypeScript dashboards to Python/FastAPI services, Dockerized backends, and AWS serverless pipelines. I also care a lot about **operating systems**, **networks**, **LLMs**, and clean, accessible UI.
+I'm **Justin**, a 21-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). I love building dependable systems end-to-end, from SwiftUI frontends and TypeScript dashboards to Python/FastAPI services, Dockerized backends, and AWS serverless pipelines. I also care a lot about **operating systems**, **networks**, **LLMs**, and clean, accessible UI.
 
 - 🔭 **Currently working on:** RadioAtlas (iOS), automation & internal tools as a Working Student at **Westend61** (SysAdmin + Software Dev), a stealth startup, and my portfolio.
 - 🌱 **Currently learning:** iOS 26 / SwiftUI, distributed systems & OS internals, AWS serverless and Machine Learning.
