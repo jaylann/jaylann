@@ -61,11 +61,11 @@ I'm **Justin**, a 21-year-old Computer Science student and Tutor at the [Technic
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [sideQuest: When AI Meets the Open Road](https://lanfermann.dev/blogs/ipraktikum-sidequest)
-- [From Threads DM to Live on Air](https://lanfermann.dev/blogs/podcast-ich-glaube-es-hackt)
-- [RadioAtlas – Discovering the World One Station at a Time](https://lanfermann.dev/blogs/radioatlas)
-- [Google's TPU Journey: How Custom Silicon Revolutionized AI Computing](https://lanfermann.dev/blogs/google-tpu-architectural-journey)
-- [PartyMap: Mapping the Nightlife Landscape with AI](https://lanfermann.dev/blogs/party-map)
+- [Where the Community Comes Home: Two Days With Six Years of TUM.ai](https://lanfermann.dev/blogs/tum-ai-retreat)
+- [Build the Most Absurd Thing: An Onboarding Hackathon with a Squabbling AI Council](https://lanfermann.dev/blogs/tum-ai-onboarding-hackathon)
+- [Making NeatPass: From an Annoying PDF Ticket to an App](https://lanfermann.dev/blogs/making-neatpass)
+- [Third at the EuroTech Hong Kong Hackathon: A Wafer Defect Detector in 24 Hours](https://lanfermann.dev/blogs/eurotech-hong-kong-hackathon)
+- [XCStringsTranslator: AI-Translating Apple .xcstrings Files](https://lanfermann.dev/blogs/xcstrings-translator)
 <!-- BLOG-POST-LIST:END -->
 
 *📖 [Read more on my blog](https://lanfermann.dev/blog)*
