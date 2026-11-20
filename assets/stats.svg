@@ -4,6 +4,7 @@
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6E60D8; animation: fadeIn 0.8s ease-in-out forwards; }
     .stat { font: 700 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8B949E; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
     .stagger { opacity: 0; animation: fadeIn 0.3s ease-in-out forwards; }
     .icon { fill: #6E60D8; display: block; }
     .ring-rim { stroke: #6E60D8; fill: none; stroke-width: 6; opacity: 0.2; }
@@ -14,7 +15,7 @@
     @supports(-moz-appearance: auto) { .header { font-size: 15.5px; } .stat { font-size: 12px; } }
     @keyframes ringIn { from { stroke-dashoffset: 251.33; } to { stroke-dashoffset: 0; } }
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-  </style>
+</style>
   <g transform="translate(25, 35)"><text x="0" y="0" class="header">Justin Lanfermann's GitHub Stats</text></g>
   <g transform="translate(0, 55)">
     <g transform="translate(390.5, 47.5)">
