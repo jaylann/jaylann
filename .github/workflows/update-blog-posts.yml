@@ -35,11 +35,27 @@ jobs:
         run: |
           python update_readme.py
 
+      # GitHub's image proxy times out on github-readme-stats, so the README shows copies kept in
+      # the repository. A failed or error card keeps yesterday's copy.
+      - name: Fetch Stats Cards
+        run: |
+          fetch() {
+            if curl -fsS --max-time 30 -o "$1.tmp" "$2" && ! grep -q 'Something went wrong' "$1.tmp"; then
+              mv "$1.tmp" "$1"
+            else
+              rm -f "$1.tmp"
+              echo "::warning::kept the previous $1"
+            fi
+          }
+          mkdir -p assets
+          fetch assets/stats.svg 'https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E60D8&icon_color=6E60D8&text_color=8B949E&ring_color=6E60D8'
+          fetch assets/top-langs.svg 'https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&langs_count=6&hide=tex,mdx&hide_border=true&bg_color=00000000&title_color=6E60D8&text_color=8B949E'
+
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: '📝 Update latest blog posts'
-          file_pattern: README.md
+          commit_message: '📝 Update latest blog posts and stats'
+          file_pattern: README.md assets/*.svg
 
       # GitHub turns off a scheduled workflow after 60 days without a commit, and a run that finds
       # no new post commits nothing. Enabling the workflow again resets that timer.
