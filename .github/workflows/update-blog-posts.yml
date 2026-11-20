@@ -3,6 +3,7 @@ name: Update Blog Posts
 # Set permissions at the workflow level
 permissions:
   contents: write  # Allows read and write access to the repository contents
+  actions: write   # Lets the last step re-enable this workflow
 
 on:
   schedule:
@@ -15,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
       - name: Set Up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version: '3.x'
 
@@ -34,8 +35,21 @@ jobs:
         run: |
           python update_readme.py
 
+      # Both cards are drawn from my own numbers, private repositories included (see stats_card.py).
+      - name: Draw Stats Cards
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python stats_card.py assets
+
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: '📝 Update latest blog posts'
-          file_pattern: README.md
+          commit_message: '📝 Update latest blog posts and stats'
+          file_pattern: README.md assets/*.svg
+
+      # GitHub turns off a scheduled workflow after 60 days without a commit, and a run that finds
+      # no new post commits nothing. Enabling the workflow again resets that timer.
+      - name: Keep the schedule alive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/update-blog-posts.yml/enable"
