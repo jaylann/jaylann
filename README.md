@@ -66,7 +66,7 @@ I build software people actually use. My iPhone app [NeatPass](https://neatpass.
 
 ## 📊 Stats
 
-<!-- The cards are downloaded daily by .github/workflows/update-blog-posts.yml: GitHub's image proxy times out on github-readme-stats. -->
+<!-- .github/workflows/update-blog-posts.yml redraws both cards daily: stats_card.py draws the stats card with private work counted, and the languages card is copied from github-readme-stats, which GitHub's image proxy times out on. -->
 <p align="center">
   <img height="170" src="assets/stats.svg" alt="GitHub stats" />
   <img height="170" src="assets/top-langs.svg" alt="Most used languages" />
