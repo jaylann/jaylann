@@ -35,26 +35,11 @@ jobs:
         run: |
           python update_readme.py
 
-      # Drawn from my own numbers, private repositories included (see stats_card.py).
-      - name: Draw Stats Card
+      # Both cards are drawn from my own numbers, private repositories included (see stats_card.py).
+      - name: Draw Stats Cards
         env:
           STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
-        run: python stats_card.py assets/stats.svg
-
-      # GitHub's image proxy times out on github-readme-stats, so the README shows a copy kept in
-      # the repository. A failed or error card keeps yesterday's copy.
-      - name: Fetch Languages Card
-        run: |
-          fetch() {
-            if curl -fsS --max-time 30 -o "$1.tmp" "$2" && ! grep -q 'Something went wrong' "$1.tmp"; then
-              mv "$1.tmp" "$1"
-            else
-              rm -f "$1.tmp"
-              echo "::warning::kept the previous $1"
-            fi
-          }
-          mkdir -p assets
-          fetch assets/top-langs.svg 'https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&langs_count=6&hide=tex,mdx&hide_border=true&bg_color=00000000&title_color=6E60D8&text_color=8B949E'
+        run: python stats_card.py assets
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v7
