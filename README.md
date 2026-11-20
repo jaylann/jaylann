@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6E60D8,100:4A3DB6&text=Justin%20Lanfermann&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Software%20engineer%20in%20Munich&descAlignY=56&animation=fadeIn" alt="Justin Lanfermann, software engineer in Munich" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6E60D8,100:4A3DB6&text=Justin%20Lanfermann&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Software%20engineer%20in%20Munich&descAlignY=56&animation=fadeIn" alt="Justin Lanfermann, software engineer in Munich" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=6E60D8&center=true&vCenter=true&width=620&lines=I+built+NeatPass%3A+45%2C000%2B+people+use+it;Head+of+Software+Development+at+TUM.ai;M.Sc.+Software+Engineering%2C+Elite+Graduate+Program;Swift%2C+TypeScript%2C+Python+and+on-device+AI" alt="I built NeatPass. Head of Software Development at TUM.ai. M.Sc. Software Engineering. Swift, TypeScript, Python and on-device AI." />
@@ -66,7 +64,15 @@ I build software people actually use. My iPhone app [NeatPass](https://neatpass.
 
 📖 [All posts on lanfermann.dev](https://lanfermann.dev/blog)
 
----
+## 📊 Stats
+
+<!-- The cards are downloaded daily by .github/workflows/update-blog-posts.yml: GitHub's image proxy times out on github-readme-stats. -->
+<p align="center">
+  <img height="170" src="assets/stats.svg" alt="GitHub stats" />
+  <img height="170" src="assets/top-langs.svg" alt="Most used languages" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4A3DB6,100:6E60D8&section=footer" alt="" />
 
 <p align="center">
   <sub><a href="https://lanfermann.dev/imprint">Imprint</a></sub>
