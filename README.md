@@ -1,108 +1,54 @@
-<!-- Header -->
-<!--
-<p align="center">
-  <img src="https://cdn.lanfermann.dev/projects/thumbnails/this-page-project-thumbnail.jpeg" alt="Banner" />
-</p>
--->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Justin&reversal=false&textBg=false&animation=fadeIn&theme=tokyonight)
+# Justin Lanfermann
 
-<p align="center">
-  <a href="https://github.com/jaylann">
-    <img src="https://img.shields.io/github/followers/jaylann?label=Follow&style=social" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/justin-lanfermann-07352124b">
-    <img src="https://img.shields.io/badge/-Justin%20Lanfermann-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ko-fi.com/justiiiin">
-    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=kofi" alt="Ko-Fi" />
-  </a>
-  <a href="https://lanfermann.dev">
-    <img src="https://img.shields.io/badge/-Lanfermann.DEV-0A0A0A?style=flat&logo=Firefox&logoColor=white" alt="Website" />
-  </a>
-</p>
+Websites, apps and business software
 
-<!-- About Me -->
-## 👨‍💻 About Me
+45,000 people use [NeatPass](https://neatpass.app), my iPhone app. I built and published it alone, and Apple featured it in “Apps We Love” on the App Store. At TUM.ai, a student AI initiative, I lead software development. Some of my code is open source. NeatPass turns a PDF into an Apple Wallet pass, and the PDF never leaves the iPhone.
 
-I'm **Justin**, a 21-year-old Computer Science student and Tutor at the [Technical University of Munich (TUM)](https://www.tum.de). I love building dependable systems end-to-end, from SwiftUI frontends and TypeScript dashboards to Python/FastAPI services, Dockerized backends, and AWS serverless pipelines. I also care a lot about **operating systems**, **networks**, **LLMs**, and clean, accessible UI.
+The best software is the kind you don’t have to think about.
 
-- 🔭 **Currently working on:** RadioAtlas (iOS), automation & internal tools as a Working Student at **Westend61** (SysAdmin + Software Dev), a stealth startup, and my portfolio.
-- 🌱 **Currently learning:** iOS 26 / SwiftUI, distributed systems & OS internals, AWS serverless and Machine Learning.
-- 👯 **Looking to collaborate on:** LLM-powered apps, SwiftUI Apps, Next.js + edge/serverless projects.
-- 💬 **Ask me about:** Python/FastAPI, Next.js/TypeScript, Docker & networking, prompting/LLM stacks.
-- 🎓 **Teaching:** Tutor for **Operating Systems & System Software** (Oct 2025 – Mar 2026). Previously **Fundamentals of Programming** (Oct 2024 – Mar 2025).
-- 🏅 **Highlights:** CHECK24 **GenDev** stipend • Top **8%** at TUM • **2nd place** — TUM.ai × Public Makers Hackathon.
-- 📫 **How to reach me:** [Email Me](mailto:justin@lanfermann.dev)
+## Now
 
-<!-- Tech Skills -->
-## 🛠️ Tech Skills
+- M.Sc. in the Elite Graduate Program Software Engineering (TUM, LMU Munich and the University of Augsburg) since September 2026. Before that a B.Sc. in Informatics at TUM, finished in the top 11 percent of my year, where I also tutored more than 250 students.
+- Working student at Westend61 since 2024: AI automation and the IT of the Munich office.
 
-![Python](https://img.shields.io/badge/Python-7%20years-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-4%20years-007396?logo=java&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-2%20years-4298B8?logo=apache-groovy&logoColor=white)
-![Language Models](https://img.shields.io/badge/Language%20Models-4%20years-652C90?logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3%20years-2496ED?logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-4%20years-0069D9?logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/C-3%20years-A8B9CC?logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-2%20years-61DAFB?logo=react&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3%20years-F7931E?logo=tensorflow&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-2%20years-FF9900?logo=amazon-aws&logoColor=white)
+## Projects
 
-<!-- Other Skills -->
-## 💼 Other Skills
+- [gbar](https://github.com/jaylann/gbar): GitHub in the macOS menu bar. Pull requests, issues, CI and notifications, one glance away. Source-available.
+- [lanfermann-system](https://github.com/jaylann/lanfermann-system): React components for Next.js and Tailwind CSS v4, built on Base UI. The workshop is at [ui.lanfermann.dev](https://ui.lanfermann.dev).
+- [Cast](https://github.com/jaylann/Cast): type-safe structured output from a local LLM on Apple Silicon, by constrained decoding in MLX Swift.
+- [on-device-lab](https://github.com/jaylann/on-device-lab): open-weight LLMs on iPhone and Mac with mlx-swift. The code-along from my session at the My Porsche App Tech Day.
+- [mcp-server-sevdesk](https://github.com/jaylann/mcp-server-sevdesk): an unofficial MCP server for the sevDesk accounting API. It only reads until you allow more, and it asks you before anything legally binding.
+- [apple-wallet-support-tracker](https://github.com/jaylann/apple-wallet-support-tracker): an open dataset of which airlines, transit systems, loyalty programs, events and hotels support Apple Wallet passes. An agent checks it every month.
+- [XCStringsTranslator](https://github.com/jaylann/XCStringsTranslator): translates Apple .xcstrings files with Claude, GPT or Gemini.
+- [NexusAutoDL](https://github.com/jaylann/NexusAutoDL): downloads mods from Nexus Mods for Vortex, Portmod and Wabbajack. My oldest project, and still the one with the most stars.
 
-- **Teaching & Mentoring:** Weekly tutorials, exam prep, and a 100+ member peer study community at TUM.
-- **Presentation:** Story-driven talks and demos; comfort speaking to groups of 30+.
-- **Communication:** Explain complex tech to mixed audiences with clarity and empathy.
-- **Entrepreneurship:** Launched my first business at 18; rapid prototyping & user-feedback mindset.
-- **Systems Thinking:** From OS/networking to APIs and UIs, design for coherence and reliability.
+## Talks and awards
 
-<!-- Latest Blog Posts -->
-## 📝 Latest Blog Posts
+- “Not every on-device AI is Apple Intelligence,” a 90-minute session at the My Porsche App Tech Day, July 2026.
+- CHECK24 GenDev scholarship (2025).
+- Second place at a hackathon with the Federal Foreign Office (2025).
+- Third place at EuroTech Hong Kong (2026).
+
+## Writing
+
+I write about how it was made.
 
 <!-- BLOG-POST-LIST:START -->
-- [Where the Community Comes Home: Two Days With Six Years of TUM.ai](https://lanfermann.dev/blogs/tum-ai-retreat)
-- [Build the Most Absurd Thing: An Onboarding Hackathon with a Squabbling AI Council](https://lanfermann.dev/blogs/tum-ai-onboarding-hackathon)
-- [Making NeatPass: From an Annoying PDF Ticket to an App](https://lanfermann.dev/blogs/making-neatpass)
-- [Third at the EuroTech Hong Kong Hackathon: A Wafer Defect Detector in 24 Hours](https://lanfermann.dev/blogs/eurotech-hong-kong-hackathon)
-- [XCStringsTranslator: AI-Translating Apple .xcstrings Files](https://lanfermann.dev/blogs/xcstrings-translator)
+- [Scaling TUM.ai's Recruiting to 1,000+ Applications](https://lanfermann.dev/blogs/building-tum-ai-recruiting-platform)
+- [Rebuilding the Face of Europe's Leading AI Student Initiative](https://lanfermann.dev/blogs/rebuilding-the-tum-ai-website)
+- [The Fence, Not the Agent: Letting LLMs Maintain Competencies in Artemis](https://lanfermann.dev/blogs/autonomous-competency-maintenance-artemis)
+- [From the Next Word to 3D Games: A Week Teaching AI at Schloss Elmau](https://lanfermann.dev/blogs/teaching-ai-at-schloss-elmau)
+- [Building gbar: GitHub, One Glance Away](https://lanfermann.dev/blogs/building-gbar)
 <!-- BLOG-POST-LIST:END -->
 
-*📖 [Read more on my blog](https://lanfermann.dev/blog)*
+All articles: [lanfermann.dev/blog](https://lanfermann.dev/blog)
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+## Contact
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaylann&theme=tokyonight" alt="GitHub Streak" />
-</p>
+- [justin@lanfermann.dev](mailto:justin@lanfermann.dev)
+- [lanfermann.dev](https://lanfermann.dev)
+- [LinkedIn](https://www.linkedin.com/in/lanfermann)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+I reply to every message.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<!-- Contribution Graph -->
-## 📈 Contribution Graph
-
-[![Justin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaylann&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=58a6ff&point=444c56&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Contact Me -->
-## 📫 Contact Me
-
-- **Website:** [Lanfermann.DEV](https://lanfermann.dev)
-- **Email:** [Justin@Lanfermann.DEV](mailto:justin@lanfermann.dev)
-- **LinkedIn:** [Justin Lanfermann](https://www.linkedin.com/in/justin-lanfermann-07352124b)
-- **Ko-Fi:** [Buy me a coffee](https://ko-fi.com/justiiiin)
-
----
-
-*Made with ❤️ by [Justin Lanfermann](https://lanfermann.dev)*
-
-<!-- Footer Links -->
-<p align="center">
-  <a href="https://lanfermann.dev/imprint">Imprint</a>
-</p>
+<sub>[Imprint](https://lanfermann.dev/imprint)</sub>
