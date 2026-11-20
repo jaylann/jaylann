@@ -35,9 +35,15 @@ jobs:
         run: |
           python update_readme.py
 
-      # GitHub's image proxy times out on github-readme-stats, so the README shows copies kept in
+      # Drawn from my own numbers, private repositories included (see stats_card.py).
+      - name: Draw Stats Card
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python stats_card.py assets/stats.svg
+
+      # GitHub's image proxy times out on github-readme-stats, so the README shows a copy kept in
       # the repository. A failed or error card keeps yesterday's copy.
-      - name: Fetch Stats Cards
+      - name: Fetch Languages Card
         run: |
           fetch() {
             if curl -fsS --max-time 30 -o "$1.tmp" "$2" && ! grep -q 'Something went wrong' "$1.tmp"; then
@@ -48,7 +54,6 @@ jobs:
             fi
           }
           mkdir -p assets
-          fetch assets/stats.svg 'https://github-readme-stats.vercel.app/api?username=jaylann&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E60D8&icon_color=6E60D8&text_color=8B949E&ring_color=6E60D8'
           fetch assets/top-langs.svg 'https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&langs_count=6&hide=tex,mdx&hide_border=true&bg_color=00000000&title_color=6E60D8&text_color=8B949E'
 
       - name: Commit and Push Changes
