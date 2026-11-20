@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set Up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.x'
 
@@ -57,7 +57,7 @@ jobs:
           fetch assets/top-langs.svg 'https://github-readme-stats.vercel.app/api/top-langs/?username=jaylann&layout=compact&langs_count=6&hide=tex,mdx&hide_border=true&bg_color=00000000&title_color=6E60D8&text_color=8B949E'
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: '📝 Update latest blog posts and stats'
           file_pattern: README.md assets/*.svg
