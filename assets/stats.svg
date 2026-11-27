@@ -1,6 +1,6 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">Justin Lanfermann's GitHub Stats</title>
-  <desc id="descId">Total Stars Earned: 122, Total Commits (last year): 10965, Total PRs: 5051, Total Issues: 3544, Contributed to (last year): 110. 18124 contributions in the last year.</desc>
+  <desc id="descId">Total Stars Earned: 122, Total Commits (last year): 11036, Total PRs: 5129, Total Issues: 3601, Contributed to (last year): 110. 18330 contributions in the last year.</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6E60D8; animation: fadeIn 0.8s ease-in-out forwards; }
     .stat { font: 700 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8B949E; }
@@ -21,7 +21,7 @@
     <g transform="translate(390.5, 47.5)">
       <circle class="ring-rim" cx="-10" cy="8" r="40"/>
       <circle class="ring" cx="-10" cy="8" r="40" transform="rotate(-90 -10 8)"/>
-      <text class="ring-value" x="-10" y="8" text-anchor="middle">18.1k</text>
+      <text class="ring-value" x="-10" y="8" text-anchor="middle">18.3k</text>
       <text class="ring-label" x="-10" y="24" text-anchor="middle">contributions</text>
     </g>
       <g transform="translate(0, 0)">
@@ -49,7 +49,7 @@
         <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
           <svg class="icon" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
           <text class="stat" x="25" y="12.5">Total Issues:</text>
-          <text class="stat" x="219.01" y="12.5">3.5k</text>
+          <text class="stat" x="219.01" y="12.5">3.6k</text>
         </g>
       </g>
       <g transform="translate(0, 100)">
