@@ -1,6 +1,6 @@
 <svg width="300" height="165" viewBox="0 0 300 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langTitle langDesc">
   <title id="langTitle">Most Used Languages</title>
-  <desc id="langDesc">Swift 34.79%, Python 30.31%, TypeScript 29.60%, PHP 2.07%, Java 1.77%, Dart 1.46%</desc>
+  <desc id="langDesc">Swift 34.73%, Python 30.25%, TypeScript 29.74%, PHP 2.07%, Java 1.77%, Dart 1.46%</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6E60D8; animation: fadeIn 0.8s ease-in-out forwards; }
     .stat { font: 700 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8B949E; }
@@ -19,23 +19,23 @@
   <g transform="translate(25, 35)"><text x="0" y="0" class="header">Most Used Languages</text></g>
   <g transform="translate(25, 55)">
     <mask id="bar"><rect x="0" y="0" width="250" height="8" fill="white" rx="5"/></mask>
-    <rect mask="url(#bar)" x="0.00" y="0" width="86.98" height="8" fill="#F05138"/><rect mask="url(#bar)" x="86.98" y="0" width="75.77" height="8" fill="#3572A5"/><rect mask="url(#bar)" x="162.75" y="0" width="74.00" height="8" fill="#3178c6"/><rect mask="url(#bar)" x="236.75" y="0" width="5.18" height="8" fill="#4F5D95"/><rect mask="url(#bar)" x="241.93" y="0" width="4.42" height="8" fill="#b07219"/><rect mask="url(#bar)" x="246.35" y="0" width="3.65" height="8" fill="#00B4AB"/>
+    <rect mask="url(#bar)" x="0.00" y="0" width="86.82" height="8" fill="#F05138"/><rect mask="url(#bar)" x="86.82" y="0" width="75.62" height="8" fill="#3572A5"/><rect mask="url(#bar)" x="162.44" y="0" width="74.34" height="8" fill="#3178c6"/><rect mask="url(#bar)" x="236.78" y="0" width="5.17" height="8" fill="#4F5D95"/><rect mask="url(#bar)" x="241.95" y="0" width="4.41" height="8" fill="#b07219"/><rect mask="url(#bar)" x="246.36" y="0" width="3.64" height="8" fill="#00B4AB"/>
       <g transform="translate(0, 25)">
         <g class="stagger" style="animation-delay: 450ms">
           <circle cx="5" cy="6" r="5" fill="#F05138"/>
-          <text class="lang-name" x="15" y="10">Swift 34.79%</text>
+          <text class="lang-name" x="15" y="10">Swift 34.73%</text>
         </g>
       </g>
       <g transform="translate(0, 50)">
         <g class="stagger" style="animation-delay: 600ms">
           <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-          <text class="lang-name" x="15" y="10">Python 30.31%</text>
+          <text class="lang-name" x="15" y="10">Python 30.25%</text>
         </g>
       </g>
       <g transform="translate(0, 75)">
         <g class="stagger" style="animation-delay: 750ms">
           <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-          <text class="lang-name" x="15" y="10">TypeScript 29.60%</text>
+          <text class="lang-name" x="15" y="10">TypeScript 29.74%</text>
         </g>
       </g>
       <g transform="translate(150, 25)">
